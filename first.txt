@@ -1,2 +1,2 @@
 This is an example text file
-This is my line
+This is a new line
